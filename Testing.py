@@ -1,7 +1,7 @@
 import os
 import imageio
 
-path = 'Make-A-GIF/random photos/'
+path = 'C:/Users/teng448/Desktop/16505/V02/Fe'
 
 folder = os.fsencode(path)
 
